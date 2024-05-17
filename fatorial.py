@@ -1,0 +1,1 @@
+EquivalentClasses (:ChildlessPersonObjectIntersectionOf (:Person:ObjectComplementOf (:Parent )))
